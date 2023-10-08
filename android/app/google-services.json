@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780994543490",
+    "project_id": "neelumhickers",
+    "storage_bucket": "neelumhickers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780994543490:android:6b8173f026347471e6199b",
+        "android_client_info": {
+          "package_name": "com.example.nelumhicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780994543490-acvpm0chojsg7hv4i2fiv5vr3396shgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nelumhicker",
+            "certificate_hash": "9d04f399f8010d838b8ea813b51b8a32b4947467"
+          }
+        },
+        {
+          "client_id": "780994543490-h4ed69adup0tpihkd28smohorfdovrel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ16EcVbVRxNNXB64JiOoHnowbkr8ZXfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780994543490-h4ed69adup0tpihkd28smohorfdovrel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
